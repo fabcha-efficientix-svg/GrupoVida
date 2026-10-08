@@ -1,0 +1,28 @@
+<customlist scriptid="customlistgv_estado_autoasig_wo">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>GV Estado Autoasignación WO</name>
+  <customvalues>
+    <customvalue scriptid="val_579838_11289219_sb2_157">
+      <isinactive>F</isinactive>
+      <value>Pendiente de asignación</value>
+    </customvalue>
+    <customvalue scriptid="val_579839_11289219_sb2_280">
+      <isinactive>F</isinactive>
+      <value>Asignada</value>
+    </customvalue>
+    <customvalue scriptid="val_579840_11289219_sb2_383">
+      <isinactive>F</isinactive>
+      <value>Parcial</value>
+    </customvalue>
+    <customvalue scriptid="val_579841_11289219_sb2_406">
+      <isinactive>F</isinactive>
+      <value>Con diferencia</value>
+    </customvalue>
+    <customvalue scriptid="val_579842_11289219_sb2_439">
+      <isinactive>F</isinactive>
+      <value>Error</value>
+    </customvalue>
+  </customvalues>
+</customlist>

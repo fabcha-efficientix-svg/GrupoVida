@@ -1,0 +1,28 @@
+{
+  "name": "grupovida-sdf",
+  "version": "1.0.0",
+  "description": "Proyecto NetSuite SDF (Account Customization Project) - Grupo Vida",
+  "scripts": {
+    "account:setup": "suitecloud account:setup",
+    "account:manageauth": "suitecloud account:manageauth",
+    "validate": "suitecloud project:validate",
+    "deploy": "suitecloud project:deploy",
+    "object:import": "suitecloud object:import",
+    "object:list": "suitecloud object:list",
+    "file:import": "suitecloud file:import",
+    "file:upload": "suitecloud file:upload"
+  },
+  "keywords": [
+    "netsuite",
+    "suitecloud",
+    "sdf",
+    "suitescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0"
+  }
+}
